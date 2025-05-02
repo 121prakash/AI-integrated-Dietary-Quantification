@@ -1,4 +1,5 @@
-🍱 AI-Based Food Recognition and Calorie Estimation System
+🍱 AI-Based Food Recognition and Calorie Estimation System 
+
 This project is designed to help health-conscious individuals track their food intake by recognizing food items, estimating portion sizes, and calculating nutritional values using computer vision and deep learning. The system also includes a chatbot for food suggestions and an alert mechanism to warn users about unhealthy food.
 
 📌 Problem Statement
@@ -34,4 +35,4 @@ Screenshot of Detecting food images with calorie contains:
 👨‍💻 Author
 Prakash Harekant Jha
 Computer Engineering Student | AI & Data Science Enthusiast
-LinkedIn (update your link)
+LinkedIn (\http://www.linkedin.com/in/prakash489)
